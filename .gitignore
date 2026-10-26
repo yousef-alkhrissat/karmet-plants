@@ -1,0 +1,8 @@
+node_modules
+dist
+.taste-skill
+*.zip
+*.local
+*.log
+.DS_Store
+source-photos
