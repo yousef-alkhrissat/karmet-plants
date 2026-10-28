@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karmet-plants.com/sitemap.xml

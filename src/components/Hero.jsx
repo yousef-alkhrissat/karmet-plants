@@ -43,7 +43,7 @@ export default function Hero() {
       <div className="hero-stage">
         <div className="hero-pic">
           <img src="assets/web/hero-nicosia-2560.jpg" srcSet="assets/web/hero-nicosia-1400.jpg 1400w, assets/web/hero-nicosia-2560.jpg 2560w"
-            sizes="100vw" width="2560" height="1910" fetchPriority="high"
+            sizes="100vw" width="2560" height="1910" fetchpriority="high"
             alt="Magenta bougainvillea spilling over a pale stone wall with a balustrade" />
           <div className="hero-scrim" />
         </div>

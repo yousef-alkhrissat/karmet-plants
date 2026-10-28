@@ -1,0 +1,16 @@
+{
+  "name": "Karmet Plants · كرمة المحبوب",
+  "short_name": "Karmet",
+  "description": "Houseplants, cacti and desert roses grown and potted in Amman, Jordan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#e4e3de",
+  "theme_color": "#688e1e",
+  "lang": "en",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
